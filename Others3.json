@@ -1,0 +1,7082 @@
+{
+    "items": [
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                283,
+                86.5
+            ],
+            "id": "000753001",
+            "points": [
+                [
+                    566,
+                    173
+                ],
+                [
+                    0,
+                    173
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    566,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                283,
+                104
+            ],
+            "id": "000754002",
+            "points": [
+                [
+                    566,
+                    208
+                ],
+                [
+                    0,
+                    208
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    566,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                283,
+                86.5
+            ],
+            "id": "000755003",
+            "points": [
+                [
+                    566,
+                    173
+                ],
+                [
+                    0,
+                    173
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    566,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                283,
+                169
+            ],
+            "id": "000756004",
+            "points": [
+                [
+                    566,
+                    338
+                ],
+                [
+                    0,
+                    338
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    566,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                416,
+                168.5
+            ],
+            "id": "000757005",
+            "points": [
+                [
+                    832,
+                    337
+                ],
+                [
+                    200,
+                    337
+                ],
+                [
+                    200,
+                    172
+                ],
+                [
+                    0,
+                    172
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    832,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90,
+                180,
+                270
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                283,
+                298
+            ],
+            "id": "000758006",
+            "points": [
+                [
+                    566,
+                    596
+                ],
+                [
+                    0,
+                    596
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    566,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                416,
+                168.5
+            ],
+            "id": "000759007",
+            "points": [
+                [
+                    832,
+                    337
+                ],
+                [
+                    0,
+                    337
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    832,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                398,
+                158.25
+            ],
+            "id": "000760008",
+            "points": [
+                [
+                    796,
+                    316.5
+                ],
+                [
+                    200,
+                    316.5
+                ],
+                [
+                    200,
+                    151.5
+                ],
+                [
+                    0,
+                    151.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    796,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90,
+                180,
+                270
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                283,
+                169
+            ],
+            "id": "000763011",
+            "points": [
+                [
+                    566,
+                    338
+                ],
+                [
+                    0,
+                    338
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    566,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                421,
+                169
+            ],
+            "id": "000764012",
+            "points": [
+                [
+                    842,
+                    338
+                ],
+                [
+                    0,
+                    338
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    842,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                421,
+                169
+            ],
+            "id": "000765013",
+            "points": [
+                [
+                    842,
+                    338
+                ],
+                [
+                    0,
+                    338
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    842,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                283,
+                169
+            ],
+            "id": "000766014",
+            "points": [
+                [
+                    566,
+                    338
+                ],
+                [
+                    0,
+                    338
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    566,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                403,
+                283
+            ],
+            "id": "000767015",
+            "points": [
+                [
+                    806,
+                    566
+                ],
+                [
+                    0,
+                    566
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    806,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                403,
+                158.75
+            ],
+            "id": "000768016",
+            "points": [
+                [
+                    806,
+                    317.5
+                ],
+                [
+                    0,
+                    317.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    806,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                867,
+                164
+            ],
+            "id": "000771019",
+            "points": [
+                [
+                    1734,
+                    328
+                ],
+                [
+                    0,
+                    328
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1734,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                867,
+                39
+            ],
+            "id": "000772020",
+            "points": [
+                [
+                    1734,
+                    78
+                ],
+                [
+                    0,
+                    78
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1734,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                138,
+                169
+            ],
+            "id": "000773021",
+            "points": [
+                [
+                    276,
+                    338
+                ],
+                [
+                    0,
+                    338
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    276,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                435.5,
+                169
+            ],
+            "id": "000774022",
+            "points": [
+                [
+                    871,
+                    338
+                ],
+                [
+                    0,
+                    338
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    871,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                403,
+                169
+            ],
+            "id": "000775023",
+            "points": [
+                [
+                    806,
+                    338
+                ],
+                [
+                    0,
+                    338
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    806,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                138,
+                169
+            ],
+            "id": "000776024",
+            "points": [
+                [
+                    276,
+                    338
+                ],
+                [
+                    0,
+                    338
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    276,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                403,
+                129
+            ],
+            "id": "000777025",
+            "points": [
+                [
+                    806,
+                    258
+                ],
+                [
+                    0,
+                    258
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    806,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                138,
+                96.5
+            ],
+            "id": "000778026",
+            "points": [
+                [
+                    276,
+                    193
+                ],
+                [
+                    0,
+                    193
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    276,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                138,
+                104
+            ],
+            "id": "000779027",
+            "points": [
+                [
+                    276,
+                    208
+                ],
+                [
+                    0,
+                    208
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    276,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                138,
+                76.5
+            ],
+            "id": "000780028",
+            "points": [
+                [
+                    276,
+                    153
+                ],
+                [
+                    0,
+                    153
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    276,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                138,
+                169
+            ],
+            "id": "000781029",
+            "points": [
+                [
+                    276,
+                    338
+                ],
+                [
+                    0,
+                    338
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    276,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                398,
+                168.5
+            ],
+            "id": "000782030",
+            "points": [
+                [
+                    796,
+                    337
+                ],
+                [
+                    200,
+                    337
+                ],
+                [
+                    200,
+                    174
+                ],
+                [
+                    0,
+                    174
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    796,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90,
+                180,
+                270
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                298,
+                129
+            ],
+            "id": "000783031",
+            "points": [
+                [
+                    596,
+                    258
+                ],
+                [
+                    0,
+                    258
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    596,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                435.5,
+                168.5
+            ],
+            "id": "000784032",
+            "points": [
+                [
+                    871,
+                    337
+                ],
+                [
+                    0,
+                    337
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    871,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                444,
+                34
+            ],
+            "id": "000785033",
+            "points": [
+                [
+                    888,
+                    68
+                ],
+                [
+                    0,
+                    68
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    888,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                435,
+                44
+            ],
+            "id": "000786034",
+            "points": [
+                [
+                    870,
+                    88
+                ],
+                [
+                    0,
+                    88
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    870,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                444,
+                18.5
+            ],
+            "id": "000787035",
+            "points": [
+                [
+                    888,
+                    37
+                ],
+                [
+                    0,
+                    37
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    888,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                435,
+                44
+            ],
+            "id": "000788036",
+            "points": [
+                [
+                    870,
+                    88
+                ],
+                [
+                    0,
+                    88
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    870,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                306,
+                169
+            ],
+            "id": "000789001",
+            "points": [
+                [
+                    612,
+                    338
+                ],
+                [
+                    0,
+                    338
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    612,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                435.5,
+                169
+            ],
+            "id": "000790002",
+            "points": [
+                [
+                    871,
+                    338
+                ],
+                [
+                    0,
+                    338
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    871,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                416,
+                169
+            ],
+            "id": "000791003",
+            "points": [
+                [
+                    832,
+                    338
+                ],
+                [
+                    0,
+                    338
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    832,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                306,
+                169
+            ],
+            "id": "000792004",
+            "points": [
+                [
+                    612,
+                    338
+                ],
+                [
+                    0,
+                    338
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    612,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                398,
+                306
+            ],
+            "id": "000793005",
+            "points": [
+                [
+                    796,
+                    612
+                ],
+                [
+                    0,
+                    612
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    796,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                398,
+                158.75
+            ],
+            "id": "000794006",
+            "points": [
+                [
+                    796,
+                    317.5
+                ],
+                [
+                    0,
+                    317.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    796,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                306,
+                169
+            ],
+            "id": "000797009",
+            "points": [
+                [
+                    612,
+                    338
+                ],
+                [
+                    0,
+                    338
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    612,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                306,
+                49
+            ],
+            "id": "000798010",
+            "points": [
+                [
+                    612,
+                    98
+                ],
+                [
+                    0,
+                    98
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    612,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                306,
+                124
+            ],
+            "id": "000799011",
+            "points": [
+                [
+                    612,
+                    248
+                ],
+                [
+                    0,
+                    248
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    612,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                306,
+                104
+            ],
+            "id": "000800012",
+            "points": [
+                [
+                    612,
+                    208
+                ],
+                [
+                    0,
+                    208
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    612,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                416,
+                168.5
+            ],
+            "id": "000801013",
+            "points": [
+                [
+                    832,
+                    97
+                ],
+                [
+                    632,
+                    97
+                ],
+                [
+                    632,
+                    337
+                ],
+                [
+                    0,
+                    337
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    832,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90,
+                180,
+                270
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                435.5,
+                168.5
+            ],
+            "id": "000802014",
+            "points": [
+                [
+                    871,
+                    337
+                ],
+                [
+                    0,
+                    337
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    871,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                306,
+                298
+            ],
+            "id": "000803015",
+            "points": [
+                [
+                    612,
+                    596
+                ],
+                [
+                    0,
+                    596
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    612,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                398,
+                159.25
+            ],
+            "id": "000804016",
+            "points": [
+                [
+                    796,
+                    78.5
+                ],
+                [
+                    596,
+                    78.5
+                ],
+                [
+                    596,
+                    318.5
+                ],
+                [
+                    0,
+                    318.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    796,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90,
+                180,
+                270
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                106,
+                109
+            ],
+            "id": "000807019",
+            "points": [
+                [
+                    212,
+                    218
+                ],
+                [
+                    0,
+                    218
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    212,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                749.5,
+                109
+            ],
+            "id": "000808020",
+            "points": [
+                [
+                    1499,
+                    218
+                ],
+                [
+                    0,
+                    218
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1499,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                710.5,
+                109
+            ],
+            "id": "000809021",
+            "points": [
+                [
+                    1421,
+                    218
+                ],
+                [
+                    0,
+                    218
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1421,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                106,
+                109
+            ],
+            "id": "000810022",
+            "points": [
+                [
+                    212,
+                    218
+                ],
+                [
+                    0,
+                    218
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    212,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                692.5,
+                106
+            ],
+            "id": "000811023",
+            "points": [
+                [
+                    1385,
+                    212
+                ],
+                [
+                    0,
+                    212
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1385,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                106,
+                99.75
+            ],
+            "id": "000812024",
+            "points": [
+                [
+                    212,
+                    199.5
+                ],
+                [
+                    0,
+                    199.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    212,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                867.5,
+                164
+            ],
+            "id": "000813025",
+            "points": [
+                [
+                    1735,
+                    328
+                ],
+                [
+                    0,
+                    328
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1735,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                867.5,
+                39
+            ],
+            "id": "000814026",
+            "points": [
+                [
+                    1735,
+                    78
+                ],
+                [
+                    0,
+                    78
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1735,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                324,
+                24
+            ],
+            "id": "000815027",
+            "points": [
+                [
+                    648,
+                    48
+                ],
+                [
+                    0,
+                    48
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    648,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                315,
+                44
+            ],
+            "id": "000816028",
+            "points": [
+                [
+                    630,
+                    88
+                ],
+                [
+                    0,
+                    88
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    630,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                324,
+                24
+            ],
+            "id": "000817029",
+            "points": [
+                [
+                    648,
+                    48
+                ],
+                [
+                    0,
+                    48
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    648,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                315,
+                44
+            ],
+            "id": "000818030",
+            "points": [
+                [
+                    630,
+                    88
+                ],
+                [
+                    0,
+                    88
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    630,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                124,
+                24
+            ],
+            "id": "000819031",
+            "points": [
+                [
+                    248,
+                    48
+                ],
+                [
+                    0,
+                    48
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    248,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                115,
+                44
+            ],
+            "id": "000820032",
+            "points": [
+                [
+                    230,
+                    88
+                ],
+                [
+                    0,
+                    88
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    230,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                124,
+                24
+            ],
+            "id": "000821033",
+            "points": [
+                [
+                    248,
+                    48
+                ],
+                [
+                    0,
+                    48
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    248,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                115,
+                44
+            ],
+            "id": "000822034",
+            "points": [
+                [
+                    230,
+                    88
+                ],
+                [
+                    0,
+                    88
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    230,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                277,
+                197.375
+            ],
+            "id": "001460050",
+            "points": [
+                [
+                    554,
+                    394.75
+                ],
+                [
+                    0,
+                    394.75
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    554,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                277,
+                197.375
+            ],
+            "id": "001461051",
+            "points": [
+                [
+                    554,
+                    394.75
+                ],
+                [
+                    0,
+                    394.75
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    554,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                277,
+                197.375
+            ],
+            "id": "001462052",
+            "points": [
+                [
+                    554,
+                    394.75
+                ],
+                [
+                    0,
+                    394.75
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    554,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                277,
+                197.375
+            ],
+            "id": "001463053",
+            "points": [
+                [
+                    554,
+                    394.75
+                ],
+                [
+                    0,
+                    394.75
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    554,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                1002.5,
+                228.75
+            ],
+            "id": "001484020",
+            "points": [
+                [
+                    2005,
+                    457.5
+                ],
+                [
+                    0,
+                    457.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    2005,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                254,
+                228.75
+            ],
+            "id": "001485021",
+            "points": [
+                [
+                    508,
+                    457.5
+                ],
+                [
+                    0,
+                    457.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    508,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                751.5,
+                228.75
+            ],
+            "id": "001486022",
+            "points": [
+                [
+                    1503,
+                    457.5
+                ],
+                [
+                    0,
+                    457.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1503,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                1002.5,
+                228.75
+            ],
+            "id": "001487023",
+            "points": [
+                [
+                    2005,
+                    457.5
+                ],
+                [
+                    0,
+                    457.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    2005,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                1002.5,
+                228.75
+            ],
+            "id": "001488024",
+            "points": [
+                [
+                    2005,
+                    457.5
+                ],
+                [
+                    0,
+                    457.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    2005,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                229,
+                112.835
+            ],
+            "id": "001506042",
+            "points": [
+                [
+                    458,
+                    225.67
+                ],
+                [
+                    0,
+                    225.67
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    458,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                229,
+                112.835
+            ],
+            "id": "001507043",
+            "points": [
+                [
+                    458,
+                    225.67
+                ],
+                [
+                    0,
+                    225.67
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    458,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                229,
+                112.835
+            ],
+            "id": "001508044",
+            "points": [
+                [
+                    458,
+                    225.67
+                ],
+                [
+                    0,
+                    225.67
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    458,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                277.5,
+                228.75
+            ],
+            "id": "001529065",
+            "points": [
+                [
+                    555,
+                    457.5
+                ],
+                [
+                    0,
+                    457.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    555,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                277.5,
+                228.75
+            ],
+            "id": "001530066",
+            "points": [
+                [
+                    555,
+                    457.5
+                ],
+                [
+                    0,
+                    457.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    555,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                277.5,
+                228.75
+            ],
+            "id": "001537073",
+            "points": [
+                [
+                    555,
+                    457.5
+                ],
+                [
+                    0,
+                    457.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    555,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                277.5,
+                228.75
+            ],
+            "id": "001538074",
+            "points": [
+                [
+                    555,
+                    457.5
+                ],
+                [
+                    0,
+                    457.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    555,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                277.5,
+                228.75
+            ],
+            "id": "001539075",
+            "points": [
+                [
+                    555,
+                    457.5
+                ],
+                [
+                    0,
+                    457.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    555,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                321.5,
+                54
+            ],
+            "id": "001683001",
+            "points": [
+                [
+                    643,
+                    108
+                ],
+                [
+                    0,
+                    108
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    643,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                321.5,
+                39
+            ],
+            "id": "001685003",
+            "points": [
+                [
+                    643,
+                    78
+                ],
+                [
+                    0,
+                    78
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    643,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                321.5,
+                109
+            ],
+            "id": "001686004",
+            "points": [
+                [
+                    643,
+                    218
+                ],
+                [
+                    0,
+                    218
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    643,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                321.5,
+                54
+            ],
+            "id": "001687005",
+            "points": [
+                [
+                    643,
+                    108
+                ],
+                [
+                    0,
+                    108
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    643,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                1129,
+                109
+            ],
+            "id": "001688006",
+            "points": [
+                [
+                    2258,
+                    218
+                ],
+                [
+                    0,
+                    218
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    2258,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                1129,
+                109
+            ],
+            "id": "001689007",
+            "points": [
+                [
+                    2258,
+                    218
+                ],
+                [
+                    0,
+                    218
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    2258,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                321.5,
+                109
+            ],
+            "id": "001690008",
+            "points": [
+                [
+                    643,
+                    218
+                ],
+                [
+                    0,
+                    218
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    643,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                321.5,
+                39
+            ],
+            "id": "001691009",
+            "points": [
+                [
+                    643,
+                    78
+                ],
+                [
+                    0,
+                    78
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    643,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                321.5,
+                94
+            ],
+            "id": "001692010",
+            "points": [
+                [
+                    643,
+                    188
+                ],
+                [
+                    0,
+                    188
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    643,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                321.5,
+                94
+            ],
+            "id": "001693011",
+            "points": [
+                [
+                    643,
+                    188
+                ],
+                [
+                    0,
+                    188
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    643,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                321.5,
+                94
+            ],
+            "id": "001694012",
+            "points": [
+                [
+                    643,
+                    188
+                ],
+                [
+                    0,
+                    188
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    643,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                321.5,
+                94
+            ],
+            "id": "001695013",
+            "points": [
+                [
+                    643,
+                    188
+                ],
+                [
+                    0,
+                    188
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    643,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                321.5,
+                94
+            ],
+            "id": "001696014",
+            "points": [
+                [
+                    643,
+                    188
+                ],
+                [
+                    0,
+                    188
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    643,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                441,
+                54
+            ],
+            "id": "001712030",
+            "points": [
+                [
+                    882,
+                    108
+                ],
+                [
+                    0,
+                    108
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    882,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                441,
+                39
+            ],
+            "id": "001714032",
+            "points": [
+                [
+                    882,
+                    78
+                ],
+                [
+                    0,
+                    78
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    882,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                441,
+                269
+            ],
+            "id": "001715033",
+            "points": [
+                [
+                    882,
+                    538
+                ],
+                [
+                    0,
+                    538
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    882,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                441,
+                54
+            ],
+            "id": "001716034",
+            "points": [
+                [
+                    882,
+                    108
+                ],
+                [
+                    0,
+                    108
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    882,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                1129,
+                269
+            ],
+            "id": "001717035",
+            "points": [
+                [
+                    2258,
+                    538
+                ],
+                [
+                    0,
+                    538
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    2258,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                1159,
+                269
+            ],
+            "id": "001718036",
+            "points": [
+                [
+                    2318,
+                    538
+                ],
+                [
+                    0,
+                    538
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    2318,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                441,
+                269
+            ],
+            "id": "001719037",
+            "points": [
+                [
+                    882,
+                    538
+                ],
+                [
+                    0,
+                    538
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    882,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                441,
+                39
+            ],
+            "id": "001720038",
+            "points": [
+                [
+                    882,
+                    78
+                ],
+                [
+                    0,
+                    78
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    882,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                840.5,
+                254
+            ],
+            "id": "001721039",
+            "points": [
+                [
+                    1681,
+                    508
+                ],
+                [
+                    0,
+                    508
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1681,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                441,
+                254
+            ],
+            "id": "001722040",
+            "points": [
+                [
+                    882,
+                    508
+                ],
+                [
+                    0,
+                    508
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    882,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                648.75,
+                230
+            ],
+            "id": "001725043",
+            "points": [
+                [
+                    1297.5,
+                    460
+                ],
+                [
+                    0,
+                    460
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1297.5,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                648.75,
+                230
+            ],
+            "id": "001726044",
+            "points": [
+                [
+                    1297.5,
+                    460
+                ],
+                [
+                    0,
+                    460
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1297.5,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                104.625,
+                230
+            ],
+            "id": "001727045",
+            "points": [
+                [
+                    209.25,
+                    460
+                ],
+                [
+                    0,
+                    460
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    209.25,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                104.625,
+                230
+            ],
+            "id": "001730048",
+            "points": [
+                [
+                    209.25,
+                    460
+                ],
+                [
+                    0,
+                    460
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    209.25,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                187,
+                74
+            ],
+            "id": "001731049",
+            "points": [
+                [
+                    374,
+                    148
+                ],
+                [
+                    0,
+                    148
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    374,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                204,
+                74
+            ],
+            "id": "001733051",
+            "points": [
+                [
+                    408,
+                    148
+                ],
+                [
+                    0,
+                    148
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    408,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                204,
+                74
+            ],
+            "id": "001734052",
+            "points": [
+                [
+                    408,
+                    148
+                ],
+                [
+                    0,
+                    148
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    408,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                187,
+                74
+            ],
+            "id": "001735053",
+            "points": [
+                [
+                    374,
+                    148
+                ],
+                [
+                    0,
+                    148
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    374,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                187,
+                74
+            ],
+            "id": "001736054",
+            "points": [
+                [
+                    374,
+                    148
+                ],
+                [
+                    0,
+                    148
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    374,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                204,
+                74
+            ],
+            "id": "001738056",
+            "points": [
+                [
+                    408,
+                    148
+                ],
+                [
+                    0,
+                    148
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    408,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                204,
+                74
+            ],
+            "id": "001739057",
+            "points": [
+                [
+                    408,
+                    148
+                ],
+                [
+                    0,
+                    148
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    408,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                187,
+                74
+            ],
+            "id": "001740058",
+            "points": [
+                [
+                    374,
+                    148
+                ],
+                [
+                    0,
+                    148
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    374,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                187,
+                74
+            ],
+            "id": "001741059",
+            "points": [
+                [
+                    374,
+                    148
+                ],
+                [
+                    0,
+                    148
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    374,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                204,
+                74
+            ],
+            "id": "001743061",
+            "points": [
+                [
+                    408,
+                    148
+                ],
+                [
+                    0,
+                    148
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    408,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                204,
+                74
+            ],
+            "id": "001744062",
+            "points": [
+                [
+                    408,
+                    148
+                ],
+                [
+                    0,
+                    148
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    408,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                187,
+                74
+            ],
+            "id": "001745063",
+            "points": [
+                [
+                    374,
+                    148
+                ],
+                [
+                    0,
+                    148
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    374,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                187,
+                74
+            ],
+            "id": "001746064",
+            "points": [
+                [
+                    374,
+                    148
+                ],
+                [
+                    0,
+                    148
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    374,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                204,
+                74
+            ],
+            "id": "001748066",
+            "points": [
+                [
+                    408,
+                    148
+                ],
+                [
+                    0,
+                    148
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    408,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                204,
+                74
+            ],
+            "id": "001749067",
+            "points": [
+                [
+                    408,
+                    148
+                ],
+                [
+                    0,
+                    148
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    408,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                187,
+                74
+            ],
+            "id": "001750068",
+            "points": [
+                [
+                    374,
+                    148
+                ],
+                [
+                    0,
+                    148
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    374,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                218,
+                251.75
+            ],
+            "id": "001751069",
+            "points": [
+                [
+                    436,
+                    503.5
+                ],
+                [
+                    0,
+                    503.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    436,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                218,
+                251.75
+            ],
+            "id": "001752070",
+            "points": [
+                [
+                    436,
+                    503.5
+                ],
+                [
+                    0,
+                    503.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    436,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                218,
+                251.75
+            ],
+            "id": "001753071",
+            "points": [
+                [
+                    436,
+                    503.5
+                ],
+                [
+                    0,
+                    503.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    436,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                218,
+                251.75
+            ],
+            "id": "001754072",
+            "points": [
+                [
+                    436,
+                    503.5
+                ],
+                [
+                    0,
+                    503.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    436,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                218,
+                251.75
+            ],
+            "id": "001755073",
+            "points": [
+                [
+                    436,
+                    503.5
+                ],
+                [
+                    0,
+                    503.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    436,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                382.5,
+                565
+            ],
+            "id": "001756074",
+            "points": [
+                [
+                    765,
+                    1130
+                ],
+                [
+                    0,
+                    1130
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    765,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                391.5,
+                259
+            ],
+            "id": "001757075",
+            "points": [
+                [
+                    783,
+                    518
+                ],
+                [
+                    0,
+                    518
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    783,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                565,
+                259
+            ],
+            "id": "001758076",
+            "points": [
+                [
+                    1130,
+                    518
+                ],
+                [
+                    0,
+                    518
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1130,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                565,
+                239.75
+            ],
+            "id": "001759077",
+            "points": [
+                [
+                    1130,
+                    479.5
+                ],
+                [
+                    0,
+                    479.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1130,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                66,
+                239.75
+            ],
+            "id": "001760078",
+            "points": [
+                [
+                    132,
+                    479.5
+                ],
+                [
+                    0,
+                    479.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    132,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                66,
+                239.75
+            ],
+            "id": "001761079",
+            "points": [
+                [
+                    132,
+                    479.5
+                ],
+                [
+                    0,
+                    479.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    132,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                66,
+                239.75
+            ],
+            "id": "001762080",
+            "points": [
+                [
+                    132,
+                    479.5
+                ],
+                [
+                    0,
+                    479.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    132,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                214.5,
+                54
+            ],
+            "id": "001763081",
+            "points": [
+                [
+                    429,
+                    108
+                ],
+                [
+                    0,
+                    108
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    429,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                204,
+                54
+            ],
+            "id": "001765083",
+            "points": [
+                [
+                    408,
+                    108
+                ],
+                [
+                    0,
+                    108
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    408,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                204,
+                54
+            ],
+            "id": "001766084",
+            "points": [
+                [
+                    408,
+                    108
+                ],
+                [
+                    0,
+                    108
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    408,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                214.5,
+                54
+            ],
+            "id": "001767085",
+            "points": [
+                [
+                    429,
+                    108
+                ],
+                [
+                    0,
+                    108
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    429,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                219,
+                54
+            ],
+            "id": "001768086",
+            "points": [
+                [
+                    438,
+                    108
+                ],
+                [
+                    0,
+                    108
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    438,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                204,
+                54
+            ],
+            "id": "001770088",
+            "points": [
+                [
+                    408,
+                    108
+                ],
+                [
+                    0,
+                    108
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    408,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                204,
+                54
+            ],
+            "id": "001771089",
+            "points": [
+                [
+                    408,
+                    108
+                ],
+                [
+                    0,
+                    108
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    408,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                219,
+                54
+            ],
+            "id": "001772090",
+            "points": [
+                [
+                    438,
+                    108
+                ],
+                [
+                    0,
+                    108
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    438,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                82.5,
+                62.5
+            ],
+            "id": "001773091",
+            "points": [
+                [
+                    165,
+                    125
+                ],
+                [
+                    0,
+                    125
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    165,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                156,
+                54
+            ],
+            "id": "001776094",
+            "points": [
+                [
+                    312,
+                    108
+                ],
+                [
+                    0,
+                    108
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    312,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                156,
+                39
+            ],
+            "id": "001778096",
+            "points": [
+                [
+                    312,
+                    78
+                ],
+                [
+                    0,
+                    78
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    312,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                156,
+                269
+            ],
+            "id": "001779097",
+            "points": [
+                [
+                    312,
+                    538
+                ],
+                [
+                    0,
+                    538
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    312,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                156,
+                54
+            ],
+            "id": "001780098",
+            "points": [
+                [
+                    312,
+                    108
+                ],
+                [
+                    0,
+                    108
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    312,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                391.5,
+                269
+            ],
+            "id": "001781099",
+            "points": [
+                [
+                    783,
+                    538
+                ],
+                [
+                    0,
+                    538
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    783,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                391.5,
+                269
+            ],
+            "id": "001782100",
+            "points": [
+                [
+                    783,
+                    538
+                ],
+                [
+                    0,
+                    538
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    783,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                156,
+                269
+            ],
+            "id": "001783101",
+            "points": [
+                [
+                    312,
+                    538
+                ],
+                [
+                    0,
+                    538
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    312,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                156,
+                39
+            ],
+            "id": "001784102",
+            "points": [
+                [
+                    312,
+                    78
+                ],
+                [
+                    0,
+                    78
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    312,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                156,
+                169
+            ],
+            "id": "001785103",
+            "points": [
+                [
+                    312,
+                    338
+                ],
+                [
+                    0,
+                    338
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    312,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                711,
+                156
+            ],
+            "id": "001786104",
+            "points": [
+                [
+                    1422,
+                    312
+                ],
+                [
+                    0,
+                    312
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1422,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                729,
+                169
+            ],
+            "id": "001787105",
+            "points": [
+                [
+                    1458,
+                    338
+                ],
+                [
+                    0,
+                    338
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1458,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                729,
+                169
+            ],
+            "id": "001788106",
+            "points": [
+                [
+                    1458,
+                    338
+                ],
+                [
+                    0,
+                    338
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1458,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                156,
+                169
+            ],
+            "id": "001789107",
+            "points": [
+                [
+                    312,
+                    338
+                ],
+                [
+                    0,
+                    338
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    312,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                156,
+                159.75
+            ],
+            "id": "001790108",
+            "points": [
+                [
+                    312,
+                    319.5
+                ],
+                [
+                    0,
+                    319.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    312,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                156,
+                159.75
+            ],
+            "id": "001791109",
+            "points": [
+                [
+                    312,
+                    319.5
+                ],
+                [
+                    0,
+                    319.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    312,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                156,
+                159.75
+            ],
+            "id": "001792110",
+            "points": [
+                [
+                    312,
+                    319.5
+                ],
+                [
+                    0,
+                    319.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    312,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                729,
+                109
+            ],
+            "id": "001793111",
+            "points": [
+                [
+                    1458,
+                    218
+                ],
+                [
+                    0,
+                    218
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1458,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                729,
+                44
+            ],
+            "id": "001794112",
+            "points": [
+                [
+                    1458,
+                    88
+                ],
+                [
+                    0,
+                    88
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1458,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                391.5,
+                109
+            ],
+            "id": "001795113",
+            "points": [
+                [
+                    783,
+                    218
+                ],
+                [
+                    0,
+                    218
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    783,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                391.5,
+                44
+            ],
+            "id": "001796114",
+            "points": [
+                [
+                    783,
+                    88
+                ],
+                [
+                    0,
+                    88
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    783,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                1159,
+                44
+            ],
+            "id": "001797115",
+            "points": [
+                [
+                    2318,
+                    88
+                ],
+                [
+                    0,
+                    88
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    2318,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                339.5,
+                34
+            ],
+            "id": "001798116",
+            "points": [
+                [
+                    679,
+                    68
+                ],
+                [
+                    0,
+                    68
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    679,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                339.5,
+                39
+            ],
+            "id": "001799117",
+            "points": [
+                [
+                    679,
+                    78
+                ],
+                [
+                    0,
+                    78
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    679,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                734,
+                34
+            ],
+            "id": "001800118",
+            "points": [
+                [
+                    1468,
+                    68
+                ],
+                [
+                    0,
+                    68
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1468,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                725,
+                39
+            ],
+            "id": "001801119",
+            "points": [
+                [
+                    1450,
+                    78
+                ],
+                [
+                    0,
+                    78
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1450,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                423,
+                536
+            ],
+            "id": "001802120",
+            "points": [
+                [
+                    846,
+                    1072
+                ],
+                [
+                    0,
+                    1072
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    846,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                462,
+                109
+            ],
+            "id": "001803121",
+            "points": [
+                [
+                    924,
+                    218
+                ],
+                [
+                    0,
+                    218
+                ],
+                [
+                    0,
+                    53.982
+                ],
+                [
+                    0.009999999999999787,
+                    52.882
+                ],
+                [
+                    0.16999999999999993,
+                    49.684
+                ],
+                [
+                    0.5259999999999998,
+                    46.463
+                ],
+                [
+                    1.0739999999999998,
+                    43.271
+                ],
+                [
+                    1.8130000000000002,
+                    40.116
+                ],
+                [
+                    2.739,
+                    37.012
+                ],
+                [
+                    3.85,
+                    33.969
+                ],
+                [
+                    5.141,
+                    30.998
+                ],
+                [
+                    6.6080000000000005,
+                    28.11
+                ],
+                [
+                    8.247,
+                    25.314
+                ],
+                [
+                    10.049,
+                    22.623
+                ],
+                [
+                    12.009,
+                    20.044
+                ],
+                [
+                    14.121,
+                    17.587
+                ],
+                [
+                    16.375999999999998,
+                    15.261
+                ],
+                [
+                    18.767,
+                    13.075
+                ],
+                [
+                    21.284,
+                    11.035
+                ],
+                [
+                    23.919,
+                    9.152000000000001
+                ],
+                [
+                    26.662,
+                    7.428
+                ],
+                [
+                    29.505,
+                    5.872
+                ],
+                [
+                    32.435,
+                    4.49
+                ],
+                [
+                    35.442,
+                    3.287
+                ],
+                [
+                    38.516,
+                    2.2649999999999997
+                ],
+                [
+                    41.646,
+                    1.4289999999999998
+                ],
+                [
+                    44.821,
+                    0.7829999999999999
+                ],
+                [
+                    48.029,
+                    0.3290000000000002
+                ],
+                [
+                    51.249,
+                    0.06800000000000006
+                ],
+                [
+                    53.95,
+                    0
+                ],
+                [
+                    924,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90,
+                180,
+                270
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                432,
+                109
+            ],
+            "id": "001804122",
+            "points": [
+                [
+                    864,
+                    218
+                ],
+                [
+                    0,
+                    218
+                ],
+                [
+                    0,
+                    53.982
+                ],
+                [
+                    0.009999999999999787,
+                    52.882
+                ],
+                [
+                    0.16999999999999993,
+                    49.684
+                ],
+                [
+                    0.5259999999999998,
+                    46.463
+                ],
+                [
+                    1.0739999999999998,
+                    43.271
+                ],
+                [
+                    1.8130000000000002,
+                    40.116
+                ],
+                [
+                    2.739,
+                    37.012
+                ],
+                [
+                    3.85,
+                    33.969
+                ],
+                [
+                    5.141,
+                    30.998
+                ],
+                [
+                    6.6080000000000005,
+                    28.11
+                ],
+                [
+                    8.247,
+                    25.314
+                ],
+                [
+                    10.049,
+                    22.623
+                ],
+                [
+                    12.009,
+                    20.044
+                ],
+                [
+                    14.121,
+                    17.587
+                ],
+                [
+                    16.375999999999998,
+                    15.261
+                ],
+                [
+                    18.767,
+                    13.075
+                ],
+                [
+                    21.284,
+                    11.035
+                ],
+                [
+                    23.919,
+                    9.152000000000001
+                ],
+                [
+                    26.662,
+                    7.428
+                ],
+                [
+                    29.505,
+                    5.872
+                ],
+                [
+                    32.435,
+                    4.49
+                ],
+                [
+                    35.442,
+                    3.287
+                ],
+                [
+                    38.516,
+                    2.2649999999999997
+                ],
+                [
+                    41.646,
+                    1.4289999999999998
+                ],
+                [
+                    44.821,
+                    0.7829999999999999
+                ],
+                [
+                    48.029,
+                    0.3290000000000002
+                ],
+                [
+                    51.249,
+                    0.06800000000000006
+                ],
+                [
+                    53.95,
+                    0
+                ],
+                [
+                    864,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90,
+                180,
+                270
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                536,
+                109
+            ],
+            "id": "001805123",
+            "points": [
+                [
+                    1072,
+                    218
+                ],
+                [
+                    0,
+                    218
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1072,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                159,
+                99.75
+            ],
+            "id": "001806124",
+            "points": [
+                [
+                    318,
+                    199.5
+                ],
+                [
+                    0,
+                    199.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    318,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                159,
+                99.75
+            ],
+            "id": "001807125",
+            "points": [
+                [
+                    318,
+                    199.5
+                ],
+                [
+                    0,
+                    199.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    318,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                536,
+                99.75
+            ],
+            "id": "001808126",
+            "points": [
+                [
+                    1072,
+                    199.5
+                ],
+                [
+                    0,
+                    199.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1072,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                536,
+                99.75
+            ],
+            "id": "001809127",
+            "points": [
+                [
+                    1072,
+                    199.5
+                ],
+                [
+                    0,
+                    199.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1072,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                554,
+                34
+            ],
+            "id": "001820138",
+            "points": [
+                [
+                    1108,
+                    68
+                ],
+                [
+                    0,
+                    68
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1108,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                545,
+                39
+            ],
+            "id": "001821139",
+            "points": [
+                [
+                    1090,
+                    78
+                ],
+                [
+                    0,
+                    78
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1090,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                456.5,
+                294
+            ],
+            "id": "001861006",
+            "points": [
+                [
+                    913,
+                    588
+                ],
+                [
+                    0,
+                    588
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    913,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                1164,
+                294
+            ],
+            "id": "001862007",
+            "points": [
+                [
+                    2328,
+                    588
+                ],
+                [
+                    0,
+                    588
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    2328,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                223.5,
+                39
+            ],
+            "id": "001863008",
+            "points": [
+                [
+                    447,
+                    78
+                ],
+                [
+                    0,
+                    78
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    447,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                223.5,
+                294
+            ],
+            "id": "001864009",
+            "points": [
+                [
+                    447,
+                    588
+                ],
+                [
+                    0,
+                    588
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    447,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                223.5,
+                39
+            ],
+            "id": "001865010",
+            "points": [
+                [
+                    447,
+                    78
+                ],
+                [
+                    0,
+                    78
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    447,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                456.5,
+                39
+            ],
+            "id": "001866011",
+            "points": [
+                [
+                    913,
+                    78
+                ],
+                [
+                    0,
+                    78
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    913,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                456.5,
+                39
+            ],
+            "id": "001867012",
+            "points": [
+                [
+                    913,
+                    78
+                ],
+                [
+                    0,
+                    78
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    913,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                1164,
+                294
+            ],
+            "id": "001868013",
+            "points": [
+                [
+                    2328,
+                    588
+                ],
+                [
+                    0,
+                    588
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    2328,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                223.5,
+                294
+            ],
+            "id": "001869014",
+            "points": [
+                [
+                    447,
+                    588
+                ],
+                [
+                    0,
+                    588
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    447,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                456.5,
+                292.5
+            ],
+            "id": "001870015",
+            "points": [
+                [
+                    913,
+                    585
+                ],
+                [
+                    0,
+                    585
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    913,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                223.5,
+                44
+            ],
+            "id": "001873018",
+            "points": [
+                [
+                    447,
+                    88
+                ],
+                [
+                    0,
+                    88
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    447,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                223.5,
+                44
+            ],
+            "id": "001874019",
+            "points": [
+                [
+                    447,
+                    88
+                ],
+                [
+                    0,
+                    88
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    447,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                456.5,
+                44
+            ],
+            "id": "001875020",
+            "points": [
+                [
+                    913,
+                    88
+                ],
+                [
+                    0,
+                    88
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    913,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                456.5,
+                44
+            ],
+            "id": "001876021",
+            "points": [
+                [
+                    913,
+                    88
+                ],
+                [
+                    0,
+                    88
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    913,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                1164,
+                294
+            ],
+            "id": "001877022",
+            "points": [
+                [
+                    2328,
+                    588
+                ],
+                [
+                    0,
+                    588
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    2328,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                242.5,
+                235.75
+            ],
+            "id": "001878023",
+            "points": [
+                [
+                    485,
+                    471.5
+                ],
+                [
+                    0,
+                    471.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    485,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                242.5,
+                235.75
+            ],
+            "id": "001879024",
+            "points": [
+                [
+                    485,
+                    471.5
+                ],
+                [
+                    0,
+                    471.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    485,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                242.5,
+                235.5
+            ],
+            "id": "001880025",
+            "points": [
+                [
+                    485,
+                    471
+                ],
+                [
+                    0,
+                    471
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    485,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                887.5,
+                235.5
+            ],
+            "id": "001881026",
+            "points": [
+                [
+                    1775,
+                    471
+                ],
+                [
+                    0,
+                    471
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1775,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                887.5,
+                235.75
+            ],
+            "id": "001882027",
+            "points": [
+                [
+                    1775,
+                    471.5
+                ],
+                [
+                    0,
+                    471.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1775,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                887.5,
+                235.75
+            ],
+            "id": "001883028",
+            "points": [
+                [
+                    1775,
+                    471.5
+                ],
+                [
+                    0,
+                    471.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1775,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                456.5,
+                280
+            ],
+            "id": "001884029",
+            "points": [
+                [
+                    913,
+                    560
+                ],
+                [
+                    0,
+                    560
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    913,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                223.5,
+                280
+            ],
+            "id": "001885030",
+            "points": [
+                [
+                    447,
+                    560
+                ],
+                [
+                    0,
+                    560
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    447,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                39,
+                258
+            ],
+            "id": "001886031",
+            "points": [
+                [
+                    78,
+                    516
+                ],
+                [
+                    0,
+                    516
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    78,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                456.5,
+                278.5
+            ],
+            "id": "001887032",
+            "points": [
+                [
+                    913,
+                    557
+                ],
+                [
+                    0,
+                    557
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    913,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                456.5,
+                278.5
+            ],
+            "id": "001888033",
+            "points": [
+                [
+                    913,
+                    557
+                ],
+                [
+                    0,
+                    557
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    913,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                456.5,
+                278.5
+            ],
+            "id": "001889034",
+            "points": [
+                [
+                    913,
+                    557
+                ],
+                [
+                    0,
+                    557
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    913,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                577.5,
+                182.75
+            ],
+            "id": "002011044",
+            "points": [
+                [
+                    1155,
+                    365.5
+                ],
+                [
+                    0,
+                    365.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1155,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                577.5,
+                182.75
+            ],
+            "id": "002012045",
+            "points": [
+                [
+                    1155,
+                    365.5
+                ],
+                [
+                    0,
+                    365.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1155,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                577.5,
+                182.5
+            ],
+            "id": "002013046",
+            "points": [
+                [
+                    1155,
+                    365
+                ],
+                [
+                    0,
+                    365
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1155,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                315.5,
+                152.5
+            ],
+            "id": "002022055",
+            "points": [
+                [
+                    631,
+                    305
+                ],
+                [
+                    0,
+                    305
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    631,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                327.75,
+                112.5
+            ],
+            "id": "002032065",
+            "points": [
+                [
+                    655.5,
+                    225
+                ],
+                [
+                    0,
+                    225
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    655.5,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                327.75,
+                112.5
+            ],
+            "id": "002033066",
+            "points": [
+                [
+                    655.5,
+                    225
+                ],
+                [
+                    0,
+                    225
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    655.5,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                330.25,
+                77.75
+            ],
+            "id": "004338037",
+            "points": [
+                [
+                    660.5,
+                    155.5
+                ],
+                [
+                    0,
+                    155.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    660.5,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                330.25,
+                77.75
+            ],
+            "id": "004339038",
+            "points": [
+                [
+                    660.5,
+                    155.5
+                ],
+                [
+                    0,
+                    155.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    660.5,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                350.75,
+                77
+            ],
+            "id": "004370069",
+            "points": [
+                [
+                    701.5,
+                    154
+                ],
+                [
+                    0,
+                    154
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    701.5,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                350.75,
+                77
+            ],
+            "id": "004371070",
+            "points": [
+                [
+                    701.5,
+                    154
+                ],
+                [
+                    0,
+                    154
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    701.5,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                378.75,
+                160
+            ],
+            "id": "004384083",
+            "points": [
+                [
+                    757.5,
+                    320
+                ],
+                [
+                    0,
+                    320
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    757.5,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                378.75,
+                160
+            ],
+            "id": "004385084",
+            "points": [
+                [
+                    757.5,
+                    320
+                ],
+                [
+                    0,
+                    320
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    757.5,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                331.5,
+                241.5
+            ],
+            "id": "004407106",
+            "points": [
+                [
+                    663,
+                    483
+                ],
+                [
+                    0,
+                    483
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    663,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                330.5,
+                241.5
+            ],
+            "id": "004408107",
+            "points": [
+                [
+                    661,
+                    483
+                ],
+                [
+                    0,
+                    483
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    661,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        }
+    ],
+    "plates": [
+        {
+            "height": 1220,
+            "id": "",
+            "number": 9999,
+            "surplus": false,
+            "width": 2440
+        }
+    ],
+    "prameters": {
+        "remnantsSet": {
+            "area": 0,
+            "externSpace": 0,
+            "height": 0,
+            "width": 0
+        },
+        "surplusDir": false,
+        "timeLimit": 300
+    }
+}

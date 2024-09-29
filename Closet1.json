@@ -1,0 +1,2977 @@
+{
+    "items": [
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                450,
+                139.5
+            ],
+            "id": "23625251006",
+            "points": [
+                [
+                    900,
+                    279
+                ],
+                [
+                    0,
+                    279
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    900,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                282.1,
+                137
+            ],
+            "id": "23625251007",
+            "points": [
+                [
+                    564.2,
+                    274
+                ],
+                [
+                    0,
+                    274
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    564.2,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                282.1,
+                137
+            ],
+            "id": "23625251008",
+            "points": [
+                [
+                    564.2,
+                    274
+                ],
+                [
+                    0,
+                    274
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    564.2,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                282.1,
+                137
+            ],
+            "id": "23625251009",
+            "points": [
+                [
+                    564.2,
+                    274
+                ],
+                [
+                    0,
+                    274
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    564.2,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                282.1,
+                137
+            ],
+            "id": "23625251010",
+            "points": [
+                [
+                    564.2,
+                    274
+                ],
+                [
+                    0,
+                    274
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    564.2,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                469,
+                69
+            ],
+            "id": "23625251015",
+            "points": [
+                [
+                    938,
+                    138
+                ],
+                [
+                    0,
+                    138
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    938,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                450,
+                204
+            ],
+            "id": "23625251017",
+            "points": [
+                [
+                    900,
+                    408
+                ],
+                [
+                    0,
+                    408
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    900,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                450,
+                79
+            ],
+            "id": "23625251018",
+            "points": [
+                [
+                    900,
+                    158
+                ],
+                [
+                    0,
+                    158
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    900,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                450,
+                139.5
+            ],
+            "id": "23625251022",
+            "points": [
+                [
+                    900,
+                    279
+                ],
+                [
+                    0,
+                    279
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    900,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                282.1,
+                137
+            ],
+            "id": "23625251023",
+            "points": [
+                [
+                    564.2,
+                    274
+                ],
+                [
+                    0,
+                    274
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    564.2,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                282.1,
+                137
+            ],
+            "id": "23625251024",
+            "points": [
+                [
+                    564.2,
+                    274
+                ],
+                [
+                    0,
+                    274
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    564.2,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                282,
+                134.5
+            ],
+            "id": "23625251025",
+            "points": [
+                [
+                    564,
+                    269
+                ],
+                [
+                    401.5,
+                    269
+                ],
+                [
+                    401.5,
+                    109.5
+                ],
+                [
+                    0,
+                    109.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    564,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90,
+                180,
+                270
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                282,
+                134.5
+            ],
+            "id": "23625251026",
+            "points": [
+                [
+                    564,
+                    269
+                ],
+                [
+                    401.5,
+                    269
+                ],
+                [
+                    401.5,
+                    109.5
+                ],
+                [
+                    0,
+                    109.5
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    564,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90,
+                180,
+                270
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                69.5,
+                29
+            ],
+            "id": "23625251031",
+            "points": [
+                [
+                    139,
+                    58
+                ],
+                [
+                    0,
+                    58
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    139,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                144.5,
+                29
+            ],
+            "id": "23625251032",
+            "points": [
+                [
+                    289,
+                    58
+                ],
+                [
+                    0,
+                    58
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    289,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                572.5,
+                54
+            ],
+            "id": "23625251034",
+            "points": [
+                [
+                    1145,
+                    108
+                ],
+                [
+                    0,
+                    108
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1145,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                144.5,
+                29
+            ],
+            "id": "23625251035",
+            "points": [
+                [
+                    289,
+                    58
+                ],
+                [
+                    0,
+                    58
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    289,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                572.5,
+                54
+            ],
+            "id": "23625251038",
+            "points": [
+                [
+                    1145,
+                    108
+                ],
+                [
+                    0,
+                    108
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1145,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                79.5,
+                302.5
+            ],
+            "id": "23625251040",
+            "points": [
+                [
+                    159,
+                    605
+                ],
+                [
+                    0,
+                    605
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    159,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                79.5,
+                302.5
+            ],
+            "id": "23625251041",
+            "points": [
+                [
+                    159,
+                    605
+                ],
+                [
+                    0,
+                    605
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    159,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                70,
+                287.5
+            ],
+            "id": "23625251044",
+            "points": [
+                [
+                    140,
+                    575
+                ],
+                [
+                    0,
+                    575
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    140,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                70,
+                287.5
+            ],
+            "id": "23625251045",
+            "points": [
+                [
+                    140,
+                    575
+                ],
+                [
+                    0,
+                    575
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    140,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                70,
+                287.5
+            ],
+            "id": "23625251046",
+            "points": [
+                [
+                    140,
+                    575
+                ],
+                [
+                    0,
+                    575
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    140,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                70,
+                287.5
+            ],
+            "id": "23625251047",
+            "points": [
+                [
+                    140,
+                    575
+                ],
+                [
+                    0,
+                    575
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    140,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                277.5,
+                50.5
+            ],
+            "id": "23625251048",
+            "points": [
+                [
+                    555,
+                    101
+                ],
+                [
+                    0,
+                    101
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    555,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                277.5,
+                50.5
+            ],
+            "id": "23625251049",
+            "points": [
+                [
+                    555,
+                    101
+                ],
+                [
+                    0,
+                    101
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    555,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                168.9,
+                48
+            ],
+            "id": "23625251050",
+            "points": [
+                [
+                    337.8,
+                    96
+                ],
+                [
+                    0,
+                    96
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    337.8,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                168.9,
+                48
+            ],
+            "id": "23625251051",
+            "points": [
+                [
+                    337.8,
+                    96
+                ],
+                [
+                    0,
+                    96
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    337.8,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                277.5,
+                50.5
+            ],
+            "id": "23625251055",
+            "points": [
+                [
+                    555,
+                    101
+                ],
+                [
+                    0,
+                    101
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    555,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                277.5,
+                50.5
+            ],
+            "id": "23625251056",
+            "points": [
+                [
+                    555,
+                    101
+                ],
+                [
+                    0,
+                    101
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    555,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                168.9,
+                48
+            ],
+            "id": "23625251057",
+            "points": [
+                [
+                    337.8,
+                    96
+                ],
+                [
+                    0,
+                    96
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    337.8,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                168.9,
+                48
+            ],
+            "id": "23625251058",
+            "points": [
+                [
+                    337.8,
+                    96
+                ],
+                [
+                    0,
+                    96
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    337.8,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                277.5,
+                50.5
+            ],
+            "id": "23625251062",
+            "points": [
+                [
+                    555,
+                    101
+                ],
+                [
+                    0,
+                    101
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    555,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                277.5,
+                50.5
+            ],
+            "id": "23625251063",
+            "points": [
+                [
+                    555,
+                    101
+                ],
+                [
+                    0,
+                    101
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    555,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                168.9,
+                48
+            ],
+            "id": "23625251064",
+            "points": [
+                [
+                    337.8,
+                    96
+                ],
+                [
+                    0,
+                    96
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    337.8,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                168.9,
+                48
+            ],
+            "id": "23625251065",
+            "points": [
+                [
+                    337.8,
+                    96
+                ],
+                [
+                    0,
+                    96
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    337.8,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                277.5,
+                50.5
+            ],
+            "id": "23625251069",
+            "points": [
+                [
+                    555,
+                    101
+                ],
+                [
+                    0,
+                    101
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    555,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                277.5,
+                50.5
+            ],
+            "id": "23625251070",
+            "points": [
+                [
+                    555,
+                    101
+                ],
+                [
+                    0,
+                    101
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    555,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                174.4,
+                48
+            ],
+            "id": "23625251071",
+            "points": [
+                [
+                    348.8,
+                    96
+                ],
+                [
+                    0,
+                    96
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    348.8,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                174.4,
+                48
+            ],
+            "id": "23625251072",
+            "points": [
+                [
+                    348.8,
+                    96
+                ],
+                [
+                    0,
+                    96
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    348.8,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                277.5,
+                50.5
+            ],
+            "id": "23625251076",
+            "points": [
+                [
+                    555,
+                    101
+                ],
+                [
+                    0,
+                    101
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    555,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                277.5,
+                50.5
+            ],
+            "id": "23625251077",
+            "points": [
+                [
+                    555,
+                    101
+                ],
+                [
+                    0,
+                    101
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    555,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                174.4,
+                48
+            ],
+            "id": "23625251078",
+            "points": [
+                [
+                    348.8,
+                    96
+                ],
+                [
+                    0,
+                    96
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    348.8,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                174.4,
+                48
+            ],
+            "id": "23625251079",
+            "points": [
+                [
+                    348.8,
+                    96
+                ],
+                [
+                    0,
+                    96
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    348.8,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                257,
+                291.5
+            ],
+            "id": "23625251086",
+            "points": [
+                [
+                    514,
+                    583
+                ],
+                [
+                    0,
+                    583
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    514,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                54,
+                257
+            ],
+            "id": "23625251089",
+            "points": [
+                [
+                    108,
+                    514
+                ],
+                [
+                    0,
+                    514
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    108,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                54,
+                257
+            ],
+            "id": "23625251091",
+            "points": [
+                [
+                    108,
+                    514
+                ],
+                [
+                    0,
+                    514
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    108,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                277,
+                67.5
+            ],
+            "id": "23625251093",
+            "points": [
+                [
+                    554,
+                    135
+                ],
+                [
+                    0,
+                    135
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    554,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                277,
+                67.5
+            ],
+            "id": "23625251094",
+            "points": [
+                [
+                    554,
+                    135
+                ],
+                [
+                    0,
+                    135
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    554,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                225,
+                65
+            ],
+            "id": "23625251095",
+            "points": [
+                [
+                    450,
+                    130
+                ],
+                [
+                    0,
+                    130
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    450,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                225,
+                65
+            ],
+            "id": "23625251096",
+            "points": [
+                [
+                    450,
+                    130
+                ],
+                [
+                    0,
+                    130
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    450,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                277,
+                59.5
+            ],
+            "id": "23625251100",
+            "points": [
+                [
+                    554,
+                    119
+                ],
+                [
+                    0,
+                    119
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    554,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                277,
+                59.5
+            ],
+            "id": "23625251101",
+            "points": [
+                [
+                    554,
+                    119
+                ],
+                [
+                    0,
+                    119
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    554,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                225,
+                57
+            ],
+            "id": "23625251102",
+            "points": [
+                [
+                    450,
+                    114
+                ],
+                [
+                    0,
+                    114
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    450,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                225,
+                57
+            ],
+            "id": "23625251103",
+            "points": [
+                [
+                    450,
+                    114
+                ],
+                [
+                    0,
+                    114
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    450,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                277,
+                57.5
+            ],
+            "id": "23625251107",
+            "points": [
+                [
+                    554,
+                    115
+                ],
+                [
+                    0,
+                    115
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    554,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                277,
+                57.5
+            ],
+            "id": "23625251108",
+            "points": [
+                [
+                    554,
+                    115
+                ],
+                [
+                    0,
+                    115
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    554,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                225,
+                55
+            ],
+            "id": "23625251109",
+            "points": [
+                [
+                    450,
+                    110
+                ],
+                [
+                    0,
+                    110
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    450,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                225,
+                55
+            ],
+            "id": "23625251110",
+            "points": [
+                [
+                    450,
+                    110
+                ],
+                [
+                    0,
+                    110
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    450,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                257,
+                291.5
+            ],
+            "id": "23625251117",
+            "points": [
+                [
+                    514,
+                    583
+                ],
+                [
+                    0,
+                    583
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    514,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                54,
+                257
+            ],
+            "id": "23625251120",
+            "points": [
+                [
+                    108,
+                    514
+                ],
+                [
+                    0,
+                    514
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    108,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                54,
+                257
+            ],
+            "id": "23625251122",
+            "points": [
+                [
+                    108,
+                    514
+                ],
+                [
+                    0,
+                    514
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    108,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                277,
+                67.5
+            ],
+            "id": "23625251124",
+            "points": [
+                [
+                    554,
+                    135
+                ],
+                [
+                    0,
+                    135
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    554,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                277,
+                67.5
+            ],
+            "id": "23625251125",
+            "points": [
+                [
+                    554,
+                    135
+                ],
+                [
+                    0,
+                    135
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    554,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                225,
+                65
+            ],
+            "id": "23625251126",
+            "points": [
+                [
+                    450,
+                    130
+                ],
+                [
+                    0,
+                    130
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    450,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                225,
+                65
+            ],
+            "id": "23625251127",
+            "points": [
+                [
+                    450,
+                    130
+                ],
+                [
+                    0,
+                    130
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    450,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                277,
+                59.5
+            ],
+            "id": "23625251131",
+            "points": [
+                [
+                    554,
+                    119
+                ],
+                [
+                    0,
+                    119
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    554,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                277,
+                59.5
+            ],
+            "id": "23625251132",
+            "points": [
+                [
+                    554,
+                    119
+                ],
+                [
+                    0,
+                    119
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    554,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                225,
+                57
+            ],
+            "id": "23625251133",
+            "points": [
+                [
+                    450,
+                    114
+                ],
+                [
+                    0,
+                    114
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    450,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                225,
+                57
+            ],
+            "id": "23625251134",
+            "points": [
+                [
+                    450,
+                    114
+                ],
+                [
+                    0,
+                    114
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    450,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                277,
+                57.5
+            ],
+            "id": "23625251138",
+            "points": [
+                [
+                    554,
+                    115
+                ],
+                [
+                    0,
+                    115
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    554,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                277,
+                57.5
+            ],
+            "id": "23625251139",
+            "points": [
+                [
+                    554,
+                    115
+                ],
+                [
+                    0,
+                    115
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    554,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                225,
+                55
+            ],
+            "id": "23625251140",
+            "points": [
+                [
+                    450,
+                    110
+                ],
+                [
+                    0,
+                    110
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    450,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                225,
+                55
+            ],
+            "id": "23625251141",
+            "points": [
+                [
+                    450,
+                    110
+                ],
+                [
+                    0,
+                    110
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    450,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                523.5,
+                149.5
+            ],
+            "id": "23625251152",
+            "points": [
+                [
+                    1016,
+                    19
+                ],
+                [
+                    1047,
+                    19
+                ],
+                [
+                    1047,
+                    299
+                ],
+                [
+                    0,
+                    299
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1016,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90,
+                180,
+                270
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                203.1,
+                147
+            ],
+            "id": "23625251153",
+            "points": [
+                [
+                    406.2,
+                    294
+                ],
+                [
+                    0,
+                    294
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    406.2,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                203.1,
+                147
+            ],
+            "id": "23625251154",
+            "points": [
+                [
+                    406.2,
+                    294
+                ],
+                [
+                    0,
+                    294
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    406.2,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                408.6,
+                147
+            ],
+            "id": "23625251155",
+            "points": [
+                [
+                    817.2,
+                    294
+                ],
+                [
+                    0,
+                    294
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    817.2,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                408.6,
+                147
+            ],
+            "id": "23625251156",
+            "points": [
+                [
+                    817.2,
+                    294
+                ],
+                [
+                    0,
+                    294
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    817.2,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                511.5,
+                149.5
+            ],
+            "id": "23625251168",
+            "points": [
+                [
+                    1023,
+                    299
+                ],
+                [
+                    0,
+                    299
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1023,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                408.6,
+                147
+            ],
+            "id": "23625251169",
+            "points": [
+                [
+                    817.2,
+                    294
+                ],
+                [
+                    0,
+                    294
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    817.2,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                408.6,
+                147
+            ],
+            "id": "23625251170",
+            "points": [
+                [
+                    817.2,
+                    294
+                ],
+                [
+                    0,
+                    294
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    817.2,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                203.1,
+                147
+            ],
+            "id": "23625251171",
+            "points": [
+                [
+                    406.2,
+                    294
+                ],
+                [
+                    0,
+                    294
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    406.2,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                203.1,
+                147
+            ],
+            "id": "23625251172",
+            "points": [
+                [
+                    406.2,
+                    294
+                ],
+                [
+                    0,
+                    294
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    406.2,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                154.5,
+                29
+            ],
+            "id": "23625251179",
+            "points": [
+                [
+                    309,
+                    58
+                ],
+                [
+                    0,
+                    58
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    309,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                620,
+                54
+            ],
+            "id": "23625251182",
+            "points": [
+                [
+                    1240,
+                    108
+                ],
+                [
+                    0,
+                    108
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1240,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                1119,
+                54.5
+            ],
+            "id": "23625251183",
+            "points": [
+                [
+                    2238,
+                    109
+                ],
+                [
+                    0,
+                    109
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    2238,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": true
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                620,
+                149.5
+            ],
+            "id": "23625251190",
+            "points": [
+                [
+                    1240,
+                    299
+                ],
+                [
+                    0,
+                    299
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    1240,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                346,
+                149.5
+            ],
+            "id": "23625251194",
+            "points": [
+                [
+                    692,
+                    299
+                ],
+                [
+                    0,
+                    299
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    692,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": true,
+            "centPt": [
+                358.2535,
+                149.5
+            ],
+            "id": "23625251195",
+            "points": [
+                [
+                    666.5,
+                    19
+                ],
+                [
+                    716.507,
+                    19
+                ],
+                [
+                    715.993,
+                    299
+                ],
+                [
+                    0,
+                    299
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    666.5,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90,
+                180,
+                270
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                408.6,
+                147
+            ],
+            "id": "23625251196",
+            "points": [
+                [
+                    817.2,
+                    294
+                ],
+                [
+                    0,
+                    294
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    817.2,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                203.1,
+                147
+            ],
+            "id": "23625251197",
+            "points": [
+                [
+                    406.2,
+                    294
+                ],
+                [
+                    0,
+                    294
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    406.2,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                408.6,
+                147
+            ],
+            "id": "23625251198",
+            "points": [
+                [
+                    817.2,
+                    294
+                ],
+                [
+                    0,
+                    294
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    817.2,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        },
+        {
+            "BackFrontPriority": false,
+            "centPt": [
+                203.1,
+                147
+            ],
+            "id": "23625251199",
+            "points": [
+                [
+                    406.2,
+                    294
+                ],
+                [
+                    0,
+                    294
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    406.2,
+                    0
+                ]
+            ],
+            "rotate": [
+                0,
+                90
+            ],
+            "smallItem": false
+        }
+    ],
+    "plates": [
+        {
+            "height": 1220,
+            "id": "",
+            "number": 9999,
+            "surplus": false,
+            "width": 2440
+        }
+    ],
+    "prameters": {
+        "remnantsSet": {
+            "area": 0,
+            "externSpace": 0,
+            "height": 0,
+            "width": 0
+        },
+        "surplusDir": false,
+        "timeLimit": 300
+    }
+}
